@@ -23,6 +23,10 @@ body{
     text-decoration: none;
     color: black;
 }
+.logo{
+    max-width: 35px;
+    max-height: 35px;
+}
 .right {
     /* border: 2px solid blue; */
     font-family: 'Roboto Condensed', sans-serif;
