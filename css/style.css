@@ -99,6 +99,9 @@ body{
     border: none;
 }
 
+#cric{
+    color: black;
+}
 
 /* .right ul li a:hover{
     color: white;
